@@ -1,3 +1,4 @@
+
 # Hi 👋, I'm Subiksha Muralidass
 
 I'm a passionate **Full-Stack Developer** with a focus on backend technologies, based in **India**. I love building scalable applications and exploring new tools in the world of development. 🚀
@@ -7,6 +8,10 @@ I'm a passionate **Full-Stack Developer** with a focus on backend technologies, 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" />
+  </a>
+  <span>&nbsp;&nbsp;</span>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" />
   </a>
   <span>&nbsp;&nbsp;</span>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -24,6 +29,7 @@ I'm a passionate **Full-Stack Developer** with a focus on backend technologies, 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" />
   </a>
+-+
   <span>&nbsp;&nbsp;</span>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" />
@@ -35,10 +41,6 @@ I'm a passionate **Full-Stack Developer** with a focus on backend technologies, 
   <span>&nbsp;&nbsp;</span>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50" />
-  </a>
-  <span>&nbsp;&nbsp;</span>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" />
   </a>
 </p>
 
