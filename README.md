@@ -29,7 +29,6 @@ I'm a passionate **Full-Stack Developer** with a focus on backend technologies, 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" />
   </a>
--+
   <span>&nbsp;&nbsp;</span>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" />
@@ -46,7 +45,7 @@ I'm a passionate **Full-Stack Developer** with a focus on backend technologies, 
 
 ## 🌱 Currently Learning
 
-- **Django RESTful API**: Building robust REST APIs with Django.
+- **Django REST API**: Building robust REST APIs with Django.
 - **AWS**: Cloud computing with Amazon Web Services.
 
 ## 📫 Connect with me:
