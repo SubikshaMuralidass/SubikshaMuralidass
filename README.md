@@ -50,7 +50,7 @@ I'm a passionate **Full-Stack Developer** with a focus on backend technologies, 
 
 ## 📫 Connect With Me
 
-<a href="mailto:subiksham88@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=subiksham88@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 
