@@ -61,10 +61,6 @@ I'm a passionate **Full-Stack Developer** with a focus on backend and AI technol
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-## 🚀 My GitHub Stats
-
-![Subiksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subikshamuralidass&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
 ---
 
 Feel free to check out my repositories for more cool projects!
