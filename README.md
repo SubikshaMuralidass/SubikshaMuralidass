@@ -1,7 +1,7 @@
 
 # Hi 👋, I'm Subiksha Muralidass
 
-I'm a passionate **Full-Stack Developer** with a focus on backend technologies, based in **India**. I love building scalable applications and exploring new tools in the world of development. 🚀
+I'm a passionate **Full-Stack Developer** with a focus on backend and AI technologies, based in **India**. I love building scalable applications and exploring new tools in the world of development. 🚀
 
 ## 🔧 Skills
 
@@ -38,15 +38,18 @@ I'm a passionate **Full-Stack Developer** with a focus on backend technologies, 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
   </a>
   <span>&nbsp;&nbsp;</span>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50" />
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/microsoftazure" alt="Azure" width="50" height="50" />
   </a>
 </p>
 
 ## 🌱 Currently Learning
 
-- **Django REST API**: Building robust REST APIs with Django.
-- **AWS**: Cloud computing with Amazon Web Services.
+- **Redis**: Redis Associate Developer Certification (Python)
+
+## My Portfolio 
+
+[Portfolio](https://www.subikshamuralidass.tech)
 
 ## 📫 Connect With Me
 
