@@ -46,6 +46,7 @@ I'm a passionate **Full-Stack Developer** with a focus on backend and AI technol
 ## 🌱 Currently Learning
 
 - **Redis**: Redis Associate Developer Certification (Python)
+- **System Design**: HLD and LLD
 
 ## 🌐 My Portfolio
 
